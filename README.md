@@ -16,7 +16,7 @@ Die KfW-Förderung für Wallboxen macht hauseigene Ladeterminals attraktiv wie n
 
 * eagle pcb (Verzeichnis) - Eagle-Dateien für Platinenversion
 * project (Verzeichnis) - Projektdateien für ESP8266 auf Arduino-IDE
-* Schaltplan Wemos D1 mini.jpg - Schaltplane, Hohe Auflösung wie im Heft abgedruckt
+* Schaltplan Wemos D1 mini.jpg - Schaltplane, hohe Auflösung wie im Heft abgedruckt
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/21 ab Seite 104](https://www.heise.de/select/make/2021/5).
 
