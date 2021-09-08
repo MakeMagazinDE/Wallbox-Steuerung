@@ -6,11 +6,11 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Wallbox-Steuerung/blob/master/aufm_gh.JPG) 
 
-# Studioblitz
+# Photovoltaik an der E-Auto-Wallbox
 
-### Preisgüstige Blitzanlage aus umgebautem Disco-Stroboskop
+### Überschuss-Laden mit der eigenen Wallbox
 
-Wer (wie wir) oft Produkte oder Testaufbauten zu fotografieren hat, benötigt einen leistungsfähigen Studioblitz – eine recht kostspielige Anschaffung. Deutlich preiswerter kommt der mutige Maker davon, der ein billiges Disco-Stroboskop in ein Blitzgerät umbaut.
+Die KfW-Förderung für Wallboxen macht hauseigene Ladeterminals attraktiv wie nie. Wer zudem schon eine Photovoltaik-Anlage installiert hat, kann sein Auto kostenfrei mit Solarstrom laden. Voraussetzung ist allerdings eine intelligente Steuerung – wenn die fehlt, rüstet man einfach unsere ESP8266-Ladeautomatik nach. 
 
 ### Dateien:
 
