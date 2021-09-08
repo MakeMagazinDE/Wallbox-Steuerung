@@ -14,14 +14,8 @@ Die KfW-Förderung für Wallboxen macht hauseigene Ladeterminals attraktiv wie n
 
 ### Dateien:
 
-* Blitzdings_01_gerber.zip - Gerber-Dateien für Lade- und Zündelektronik zur Platinenfertigung
-* Blitzdings_simple_01 - Schematic.pdf - Schaltplan als PDF
-* Blitzdings_01_bestueckung.pdf - Bestückungsplan als PDF
-* Blitzdings_simple_01.sch/.brd - Layout für EasyPC ab Version 22
+* eagle pcb (Verzeichnis) - Eagle-Dateien für Platinenversion
+* project (Verzeichnis) - Projektdateien für ESP8266 auf Arduino-IDE
 
-* CapBank_schmal_02_gerber.zip - Gerber-Dateien für Kondensatorbank 300-600Ws zur Platinenfertigung
-* CapBank_schmal_02_bestueckung.pdf - Bestückungsplan als PDF
-* CapBank_schmal_02 - Schematic.pdf - Schaltplan als PDF
-
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/21 ab Seite 104](https://www.heise.de/select/make/2021/4).
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/21 ab Seite 104](https://www.heise.de/select/make/2021/5).
 
