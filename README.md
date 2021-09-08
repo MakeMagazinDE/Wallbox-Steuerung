@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-![Picture](https://github.com/MakeMagazinDE/Studioblitz/blob/master/blitzgen_strobo_k.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Wallbox-Steuerung/blob/master/aufm_gh.JPG) 
 
 # Studioblitz
 
