@@ -1,0 +1,20 @@
+Parameter Wallbox meets Photovoltaik
+Stand 02.05.2021
+hier kann jetzt weiterer beliebiger erklärender Text stehen . . .
+
+es gelten die Werte in spitzen Klammern
+
+
+maximal 18 Stellen zwischen den spitzen Klammern
+
+SSID (Name des WLANs)                                            <WLAN-SSID>           char ssid[18]
+Password                                                         <WLAN-Passort>        char password[18]
+IP-Adresse Shelly 3em                                            <192.168.178.122>     char ip_shelly[18]
+IP-Adresse Go-echarger                                           <192.168.178.48>      char ip_goe[18]
+
+ab hier genau 1 Stelle zwischen den spitzen Klammern
+
+Wallboxfirma Go-echarger=1, Heidelber energy control=2           <1> int wb
+Statistik auf SD (Ja=1, Nein=2)                                  <1> int st
+Automatische Umschaltung nur einphasig=1, 
+nur dreiphasig=3, mit Relais Umschaltautomatik=2                 <1> int eindrei
