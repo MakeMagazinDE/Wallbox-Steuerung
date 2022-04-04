@@ -20,4 +20,8 @@ Die KfW-Förderung für Wallboxen macht hauseigene Ladeterminals attraktiv wie n
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/21 ab Seite 104](https://www.heise.de/select/make/2021/5).
 
+# Photovoltaik an der E-Auto-Wallbox - reloaded
+
+### Überschuss-Laden mit der eigenen Wallbox, Teil 2
+
 Teil 2 in [Make-Ausgabe 2/22 ab Seite 52](https://www.heise.de/select/make/2022/6) ergänzt das Projekt um einen zweiten Lösungsansatz, der ohne zusätzlichen Energiezähler auskommt und stattdessen den aktuellen Verbrauch aus dem "Smart Meter" des Stromanbieters ausliest. Software und Layout finden Sie im Unterordner "Wallbox Teil 2".
